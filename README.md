@@ -1,7 +1,5 @@
 # Fortnite Cheats - Ultimate Aimbot, ESP, and Wallhack Tool
 
-![img](assets/release.png)   
-  
 ## Overview
 Fortnite Cheats repository — compact C++ toolkit and research assets including a high-performance Fortnite aimbot, feature-rich Fortnite ESP, advanced Fortnite wallhack, Fortnite Triggerbot, and related memory-manipulation utilities. Ideal for security research, game-defense testing, and academic study of anti-cheat countermeasures. Keywords: Fortnite aimbot, Fortnite ESP, Fortnite wallhack, Fortnite Triggerbot.
 
