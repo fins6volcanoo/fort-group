@@ -1,0 +1,2 @@
+# Planning
+Replace deprecated data formatting library with new standard
