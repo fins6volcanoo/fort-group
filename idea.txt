@@ -1,3 +1,4 @@
 # Planning
 Replace deprecated data formatting library with new standard
 Draft detection rules
+Add a 'future work' section to the architecture document
