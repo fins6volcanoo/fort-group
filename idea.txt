@@ -1,2 +1,3 @@
 # Planning
 Replace deprecated data formatting library with new standard
+Draft detection rules
